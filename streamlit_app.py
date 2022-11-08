@@ -3,7 +3,11 @@ import joblib
 import numpy as np
 
 # 헤드라인
+<<<<<<< HEAD
 st.write("# 어려워용")
+=======
+st.write("### aaaaaaa" )
+>>>>>>> bd3eb606eaf2c47d9f8bc366afc8eb578fe20f03
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
