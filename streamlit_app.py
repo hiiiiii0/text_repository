@@ -4,6 +4,7 @@ import numpy as np
 
 # 헤드라인
 st.write("# 어려워용")
+st.image('https://www.agoda.com/wp-content/uploads/2020/04/Jeju-Island-hotels-things-to-do-in-Jeju-Island-South-Korea.jpg')
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
